@@ -1,0 +1,23 @@
+[Game] Help started
+[HELP] First loaded config
+[HELP] The second is loaded models
+[HELP] Third loaded control
+
+[HELP] If you dont know samethin, write to us
+[HELP] Discord @Ranger404#6813
+[HELP] VK @Ranger404
+[Game] Help saved
+[Game] Log started
+
+[LOG] Config version >> 0.1
+[LOG] Config loaded
+
+[LOG] Models version >> 0.1
+[LOG] Models loaded
+
+[LOG] Control version >> 0.1
+[LOG] Control loaded
+
+[LOG] Game version >> 0.1
+
+[Game] Stoped by client[Game] Log stoped

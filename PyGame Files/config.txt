@@ -1,0 +1,6 @@
+#Клиент
+resourcepacks=True
+#Программа
+version=0.1
+x=380
+y=380
